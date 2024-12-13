@@ -2,7 +2,7 @@
 
 Project report: [report.pdf](report.pdf)
 
-The jupyter notebooks used for performing the evaluations is present in the root directory of the repository. The notebooks are named as follows:
+The jupyter notebooks used for performing the evaluations is present in the eval directory of the repository. The notebooks are named as follows:
 1. eval_gpt4o.ipynb: Performs eval on GPT4o for MMLU
 2. eval_llama_vanilla.ipynb: Performs eval on vanilla LLAMA for MMLU
 3. eval_llama_finetune.ipynb: Performs eval on finetuned LLAMA for MMLU
